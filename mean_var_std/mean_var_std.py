@@ -1,6 +1,5 @@
 # Importando biblioteca numpy e json.
 import numpy as np
-import json
 
 # Inicializando uma função 'calculate' que recebe como parâmtro uma lista 'values'.
 def calculate(values):
@@ -31,4 +30,5 @@ def calculate(values):
         }
         print(result)
 
+# Teste
 calculate([0, 1, 2, 3, 4, 5, 6, 7, 8])
