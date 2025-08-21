@@ -15,14 +15,14 @@ O repositório foi organizado para que o professor possa facilmente acessar e co
 - **Demographic Data Analyzer:** Utiliza a biblioteca pandas para realizar análises de um dataset demográfico.
 
 ##  📂  Estrutura do Repositório
-/M3
-│
-├── mean_var_std/
-│   └── mean_var_std.py
-├── demographic_data_analyzer/
-│   └── demographic_analyzer.py
-│   └── adult.data.csv
-└── README.md
+/M3 <br>
+│<br>
+├── mean_var_std/<br>
+│   └── mean_var_std.py<br>
+├── demographic_data_analyzer/<br>
+│   └── demographic_analyzer.py<br>
+│   └── adult.data.csv<br>
+└── README.md<br>
 
 --- 
 💬E-mail: matheus.silva@sou.inteli.edu.br
